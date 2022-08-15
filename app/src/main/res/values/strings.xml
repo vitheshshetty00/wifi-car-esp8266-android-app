@@ -153,8 +153,12 @@
            • http://IP:PORT/move?dir=S \n
            • http://IP:PORT/move?dir=R \n
            • http://IP:PORT/move?dir=L \n
+           • http://IP:PORT/move?dir=I \n
+           • http://IP:PORT/move?dir=G \n
+           • http://IP:PORT/move?dir=J \n
+           • http://IP:PORT/move?dir=H \n
             \n
-           • http://IP:PORT/action?type=(1-8)
+
     </string>
 
     <string name="button_dialog_title">Information</string>
